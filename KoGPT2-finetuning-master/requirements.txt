@@ -1,0 +1,11 @@
+mxnet == 1.6.0
+tqdm
+gluonnlp == 0.8.3
+sentencepiece == 0.1.6
+torch == 1.5.1
+transformers == 4.1.1
+tensorboardX
+# version문제 있다면 아래까지 맞춰주기
+# numpy == 1.16.6
+# pandas == 1.1.3
+
